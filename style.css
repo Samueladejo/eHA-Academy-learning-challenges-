@@ -1,0 +1,31 @@
+.section{
+    text-align: center; 
+    background-color: white;
+    padding: 20em;
+}
+/*
+.img{
+     text-align: center; 
+     size: 100px;    
+    }   
+
+.container{  
+    text-align: center; 
+}  
+*/
+
+.btn{  
+    size: 100px;
+    font-family: sans-serif;
+    font-size: 25px;  
+    background-color: #5DA9E9;
+    color: white;
+    border-radius: 25px;
+    padding: 10px;
+}  
+
+p{
+    font-size: 35px;
+    color: black;
+    text-align: center;
+}
